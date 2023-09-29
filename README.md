@@ -1,6 +1,18 @@
-- 👋 Hi, I’m @GrossTrevor
-- 👀 I’m interested in Artificial Intelligence and Statistics
-- 🌱 I’m currently studying Computer Science at the University of Florida
-- 💞️ I’m looking to collaborate on projects that test my understanding
-- 📫 Reach me at grosstrevor000@gmail.com, trevorgross@ufl.edu, or visit www.trevorjgross.com to learn more about me
-<!-- Comments are cool -->
+# Trevor Gross's GitHub
+@GrossTrevor  
+
+# Education
+<b>University of Florida</b>  
+Bachelor of Science in Computer Science (May 2026)  
+German Minor  
+AI Fundamentals Certificate  
+
+# Skills and Interests
+<b>Proficient</b> in C++, Python, Java, JavaScript, HTML, and CSS  
+<b>Learning</b> ARM Assembly, React, and SQL  
+<b>Pursing</b> AI, Machine Learning, Data Science, Software Developement, and Hardware Inegration  
+
+# Contact
+Email: trevorgross@ufl.edu  
+Phone: (615) 415-7014  
+LinkedIn: https://www.linkedin.com/in/trevorjgross/  
