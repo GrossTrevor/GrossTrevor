@@ -8,8 +8,8 @@ German Minor
 AI Fundamentals Certificate  
 
 # Skills and Interests
-<b>Proficient</b> in C++, Python, Java, JavaScript, HTML, and CSS  
-<b>Learning</b> ARM Assembly, React, and SQL  
+<b>Proficient</b> in C++, Python, Java, JavaScript, HTML, CSS, and ARM Assembly  
+<b>Learning</b> Machine Learning, Linux, React, and SQL  
 <b>Pursing</b> AI, Machine Learning, Data Science, Software Developement, and Hardware Inegration  
 
 # Contact
