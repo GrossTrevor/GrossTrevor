@@ -10,18 +10,19 @@ AI Fundamentals Certificate
 ## CS Coursework
 ### Current
 <ul>
-  <li>CAI4104 - Machine Learning Engineering</li>
-  <li>CEN3031 - Introduction to Software Engineering</li>
-  <li>COP4020 - Programming Language Concepts</li>
+  <li>MAS 3114 - Computational Linear Algebra</li>
 </ul>
 
 ### Past
 <ul>
-  <li>COP3530 - Data Structures and Algorithms</li>
-  <li>CDA3101 - Introduction to Computer Organization</li>
-  <li>EEL3872 - Artificial Intelligence Fundamentals</li>
-  <li>COT3100 - Applications of Discrete Structures</li>
-  <li>COP3503C - Programming Fundamentals 2</li>
+  <li>CAI4104 - Machine Learning Engineering (A)</li>
+  <li>CEN3031 - Introduction to Software Engineering (A)</li>
+  <li>COP4020 - Programming Language Concepts (A)</li>
+  <li>COP3530 - Data Structures and Algorithms (A)</li>
+  <li>CDA3101 - Introduction to Computer Organization (A)</li>
+  <li>EEL3872 - Artificial Intelligence Fundamentals (A)</li>
+  <li>COT3100 - Applications of Discrete Structures (A)</li>
+  <li>COP3503C - Programming Fundamentals 2 (A)</li>
 </ul>
 
 ## Research
