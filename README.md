@@ -29,6 +29,9 @@ AI Fundamentals Certificate
 <b>Ethical Conclusions: Bias Within AI and Deep Learning</b> (Jan. 2023 - Oct. 2023)  
 Machine learning systems in AI have sparked an increase in innovation and productivity while leading to a powerful response about its ethical implications. These doubts also surround the issue of opacity, which occurs when the complexity of a machine learning system is so great that its programmers are no longer able to identify how it produces its outputs. We seek to exemplify the dark side of these algorithms to prevent these occurrences in future programs.
 
+# Certifications
+<a href="https://www.credly.com/badges/5c835bea-873b-4af7-99d5-6a178d7c57e2">MongoDB Associate Developer - Node.js</a> (Issued May 2024)  
+
 # Skills and Interests
 <b>Proficient</b> in C++, Python, Java, JavaScript, HTML, CSS, and ARM Assembly  
 <b>Learning</b> Machine Learning, Linux, Node.js, React, and SQL  
