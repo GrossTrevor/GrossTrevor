@@ -10,11 +10,15 @@ AI Fundamentals Certificate
 ## CS Coursework
 ### Current
 <ul>
-  <li>MAS 3114 - Computational Linear Algebra</li>
+  <li>STA 4321 - Introduction to Probability</li>
+  <li>COP 4600 - Operating Systems</li>
+  <li>CNT 4007 - Computer Network Fundamentals</li>
+  <li>ENG 4641 - Engineering Entrepreneurship (<a href="https://www.h4d.us/">Hacking for Defense</a>)</li>
 </ul>
 
 ### Past
 <ul>
+  <li>MAS 3114 - Computational Linear Algebra (A)</li>
   <li>CAI4104 - Machine Learning Engineering (A)</li>
   <li>CEN3031 - Introduction to Software Engineering (A)</li>
   <li>COP4020 - Programming Language Concepts (A)</li>
