@@ -7,17 +7,21 @@ Bachelor of Science in Computer Science (May 2026)
 German Minor  
 AI Fundamentals Certificate  
 
-## CS Coursework
+## Relevant Coursework
 ### Current
 <ul>
-  <li>STA 4321 - Introduction to Probability</li>
-  <li>COP 4600 - Operating Systems</li>
-  <li>CNT 4007 - Computer Network Fundamentals</li>
-  <li>ENG 4641 - Engineering Entrepreneurship (<a href="https://www.h4d.us/">Hacking for Defense</a>)</li>
+  <li>EEE 4773/5840 - Fundamentals of Machine Learning</li>
+  <li>CAI 6307 - Natural Language Processing</li>
+  <li>STA 4322/5328 - Introduction to Statistics Theory</li>
+  <li>MAA 4102 - Inroduction to Real Analysis 1</li>
 </ul>
 
 ### Past
 <ul>
+  <li>COP 4600 - Operating Systems (A)</li>
+  <li>CNT 4007 - Computer Network Fundamentals (A)</li>
+  <li>ENG 4641 - Engineering Entrepreneurship <a href="https://www.h4d.us/">Hacking for Defense</a> (A)</li>
+  <li>STA 4321/5325 - Introduction to Probability (A-)</li>
   <li>MAS 3114 - Computational Linear Algebra (A)</li>
   <li>CAI4104 - Machine Learning Engineering (A)</li>
   <li>CEN3031 - Introduction to Software Engineering (A)</li>
