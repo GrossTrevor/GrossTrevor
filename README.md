@@ -1,15 +1,18 @@
 # Trevor Gross's GitHub
 @GrossTrevor  
 
+# Employment
+SDE I at Amazon
+San Francisco, CA
+
 # Education
-<b>University of Florida</b>  
-Bachelor of Science in Computer Science (May 2026)  
-<i>Summa Cum Laude</i>  
+**University of Florida**  
+B.S. in Computer Science  
+*Summa Cum Laude*  
 German Minor  
 AI Fundamentals Certificate  
 Engineering Leadership Certificate  
 
-# Contact
-Email: grosstrevor000@gmail.com  
-Phone: (615) 415-7014  
+# More of me!
+Website: https://www.trevorjgross.com/
 LinkedIn: https://www.linkedin.com/in/trevorjgross/  
