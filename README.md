@@ -2,8 +2,8 @@
 @GrossTrevor  
 
 # Employment
-SDE I at Amazon
-San Francisco, CA
+SDE I at Amazon  
+San Francisco, CA  
 
 # Education
 **University of Florida**  
@@ -14,5 +14,5 @@ AI Fundamentals Certificate
 Engineering Leadership Certificate  
 
 # More of me!
-Website: https://www.trevorjgross.com/
+Website: https://www.trevorjgross.com/  
 LinkedIn: https://www.linkedin.com/in/trevorjgross/  
