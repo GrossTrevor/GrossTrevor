@@ -9,7 +9,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 💼 Work
 
@@ -17,7 +17,7 @@
 San Francisco, CA
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🎓 Education
 
@@ -28,6 +28,16 @@ AI Fundamentals Certificate
 Engineering Leadership Certificate
 
 </td>
+<td width="33%" valign="top">
+  
+### 🧪 Research
+
+**[GATAS Lab](https://gataslab.org/)**  
+[Distributed Multi-agent Coordination over Cellular Sheaves](https://ieeexplore.ieee.org/document/11312066), 2025<br>
+Quadcopter Coordination Using Cellular Sheaves and Linearized LQR, 2026  
+
+</td>
+  
 </tr>
 </table>
 
@@ -37,32 +47,29 @@ Engineering Leadership Certificate
 <tr>
 <td width="33%" valign="top">
 
-#### 📈 Profiteer
+#### 📈 Profiteer - A New Financial Frontier
 
-<!-- TODO: replace with your own one-liner -->
 A personal finance app that turns your financial data into tailored analysis and advice.
 
-`TypeScript`
+`TypeScript` `private`
 
 </td>
 <td width="33%" valign="top">
 
 #### 📝 Grammar Cruncher
 
-<!-- TODO: replace with your own one-liner -->
-A tool for breaking down and analyzing grammar, built with UF.
+Language-learning tool built to bolster student's grammatical expertise, integrates into TDP. Built in collaboration with the University of Florida.
 
-`Python` <!-- TODO: confirm stack -->
+`JavaScript` `private`
 
 </td>
 <td width="33%" valign="top">
 
 #### 🤖 agent-kit
 
-<!-- TODO: replace with your own one-liner -->
 A toolkit of reusable building blocks for AI coding agents.
 
-`TypeScript` <!-- TODO: confirm stack -->
+`MCP` `Skills` `Shell` `private`
 
 </td>
 </tr>
